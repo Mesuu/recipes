@@ -1,0 +1,1 @@
+In this first project I would lay to build a simple recipe website from scratch using what ive learned in HTML the past 2 days with as little refrence as possible.
